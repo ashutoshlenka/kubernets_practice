@@ -1,0 +1,13 @@
+---
+wordpressUsername: admin
+wordpressPassword: ashu
+wordpressEmail: ashu@gmail.com
+wordpressFirstName: first_name
+wordpressLastName: last_name
+wordpressBlogName: blog_1
+
+service:
+  type: LoadBalancer
+
+
+...
